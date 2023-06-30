@@ -1,8 +1,8 @@
 # TCGA-data
 
 <img width="575" alt="image" src="https://github.com/Susan-Lee-01/TCGA-data/assets/109502469/f7aed91e-6fe0-44f7-9b2f-6be0908980ad">
-<img width="575" alt="image" src="https://github.com/Susan-Lee-01/TCGA-data/assets/109502469/b5bbd029-37d2-4057-a042-e7167519dee5"><br>
-우수상 수상🎊
+<img width="575" alt="image" src="https://github.com/Susan-Lee-01/TCGA-data/assets/109502469/b5bbd029-37d2-4057-a042-e7167519dee5"><br><br>
+<p text-align:center;><stong>우수상 수상🎊</stong></p>
 
 ## Topic📌
 Gexp : Genemarker Expert 머신러닝 기반 멀티 클래스 분석 바이오 마커 탐지 소프트웨어

@@ -17,4 +17,4 @@ Gexp : Genemarker Expert 머신러닝 기반 멀티 클래스 분석 바이오 �
 <a href="https://dataon.kisti.re.kr/search/view.do?mode=view&svcId=dcc43c1ab371eacd41f6ec8f153259e1">show data</a><br>
 
 ## Analysis Scenarios📎
-<a href="https://sunwoo8653.tistory.com/category/Contest">About Analysis Scenarios</a>
+<a href="https://sunwoo8653.tistory.com/category/Contest">About Analysis Scenarios...</a>
